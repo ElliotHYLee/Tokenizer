@@ -1,0 +1,6 @@
+C:\Users\Elliot\Documents\GitHub\Tokenizer\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe.config
+C:\Users\Elliot\Documents\GitHub\Tokenizer\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe
+C:\Users\Elliot\Documents\GitHub\Tokenizer\Tokenizer\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\Elliot\Documents\GitHub\Tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
+C:\Users\Elliot\Documents\GitHub\Tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.exe
+C:\Users\Elliot\Documents\GitHub\Tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.pdb
