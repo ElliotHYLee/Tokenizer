@@ -47,7 +47,7 @@ namespace Tokenizer
             string temp = null;
             while (str.Length > 0)
             {
-                // get first token of the string
+                // get first token of the string without []
                 temp = str.Substring(beginPos + 1, endPos - beginPos-1);
                 result.Add(temp);
                 // prepare the next string
